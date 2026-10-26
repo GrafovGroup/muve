@@ -1,0 +1,94 @@
+{
+  "project_id": "appgprj_6aa1fbaf61508191bf40a6249ef0fe2f",
+  "version_id": "appgprj_6aa1fbaf61508191bf40a6249ef0fe2f~appgver_80028435b65c819186712f4a1f1209f3",
+  "version_number": 11,
+  "commit_sha": "24e57fcb503e1d84445c08aa1a18a7387780ac9e",
+  "deployment": {
+    "id": "appgdep_6ac1918869488191a5f066a6e30e752e",
+    "project_id": "appgprj_6aa1fbaf61508191bf40a6249ef0fe2f",
+    "title": "M\u00fcve.ca",
+    "version_id": "appgprj_6aa1fbaf61508191bf40a6249ef0fe2f~appgver_80028435b65c819186712f4a1f1209f3",
+    "type": "publish",
+    "status": "succeeded",
+    "url": "https://muve-ca.dimagrafov.chatgpt.site",
+    "has_mcp": false,
+    "screenshot_asset_pointer": null,
+    "provider_deployment_id": "site---6aa1fbaf61508191bf40a6249ef0fe2f",
+    "failure_message": null,
+    "env_set_revision": 0,
+    "updated_at": "2026-10-03T23:36:50.770154+00:00"
+  },
+  "domains": [
+    {
+      "id": "appgdom_6aa1fce8cdb88191b4d924f1da246e99",
+      "project_id": "appgprj_6aa1fbaf61508191bf40a6249ef0fe2f",
+      "hostname": "muve.ca",
+      "worker_name": "site---6aa1fbaf61508191bf40a6249ef0fe2f",
+      "status": "active",
+      "provider_status": "active",
+      "ssl_status": "active",
+      "cname_target": "custom-domains.chatgpt.site.",
+      "apex_proxy_ipv4_targets": [
+        "162.159.143.30",
+        "172.66.3.26"
+      ],
+      "validation_records": [
+        {
+          "record_type": "TXT",
+          "name": "_openai-site-verification.muve.ca",
+          "value": "openai-site-verification=8A1hNiuFOzH_NHI9CWHaue1E0TFGuYBdmM4dMEHH3N4"
+        }
+      ],
+      "last_error": null,
+      "created_at": "2026-09-10T00:42:16.804073+00:00",
+      "updated_at": "2026-09-11T20:43:24.293070+00:00"
+    },
+    {
+      "id": "appgdom_6aa1fd22d6a48191937a99bf9b56663e",
+      "project_id": "appgprj_6aa1fbaf61508191bf40a6249ef0fe2f",
+      "hostname": "www.muve.ca",
+      "worker_name": "site---6aa1fbaf61508191bf40a6249ef0fe2f",
+      "status": "active",
+      "provider_status": "active",
+      "ssl_status": "active",
+      "cname_target": "custom-domains.chatgpt.site.",
+      "apex_proxy_ipv4_targets": [
+        "162.159.143.30",
+        "172.66.3.26"
+      ],
+      "validation_records": [
+        {
+          "record_type": "TXT",
+          "name": "_openai-site-verification.www.muve.ca",
+          "value": "openai-site-verification=07qMEOYwsoGALhWq7yDYevLNK1DZboagiQ-ec00qmkE"
+        }
+      ],
+      "last_error": null,
+      "created_at": "2026-09-10T00:43:14.838819+00:00",
+      "updated_at": "2026-09-10T02:28:43.709357+00:00"
+    }
+  ],
+  "last_verification": {
+    "checked_at": "2026-10-03T23:36:50.770154+00:00",
+    "public_access": true,
+    "published_version": 11,
+    "deployment_status": "succeeded",
+    "local_site_checks": "737 pages, metadata, links and enquiry context passed",
+    "local_tests": "12 form and routing tests passed",
+    "logo_checks": "All 737 pages, 1440/820/390px layouts, accessible home links, SVG/PNG/ICO assets and cache keys passed",
+    "form_endpoint": "https://formspree.io/f/xoeqyprr",
+    "custom_domain_https": "Both muve.ca and www.muve.ca serve HTTP 200 with valid HTTPS. Apex domain activation completed after refreshing its Sites validation status.",
+    "website_dns_records": "Apex A records, www CNAME, and both apex ownership TXT records verified on 1.1.1.1 and 8.8.8.8 on September 11, 2026.",
+    "www_live_checks": "Homepage, Toronto office-moving page, and 737-URL sitemap return 200; selected M logo confirmed",
+    "menu_checks": "Services/Approach labels, 17px desktop and 20px mobile menu; 1440/901/820/390px layouts, links and mobile close behaviour passed",
+    "service_content_checks": "Seven distinct service editorials; 623 local service briefs omit cloned overview paragraphs.",
+    "photo_checks": "737 pages, 31 visible photo placements, no reused photo content sitewide; seven replacement hero photos.",
+    "service_browser_checks": "12 representative routes at 1440px and 390px: no overflow or missing photos; city/service prefill, checklist and mocked Formspree flow passed.",
+    "apex_live_checks": "Homepage, services, office-moving, stylesheet, and 737-URL sitemap return HTTP 200; services also verified through both configured apex IPv4 targets.",
+    "incident_resolution": "Apex returned platform 404 while www worked. Refresh progressed SSL to active and provider through active_redeploying to active; live responses then recovered without source or DNS changes.",
+    "service_url_checks": "All seven /services/<slug> pages return 200 in production with matching canonical and enquiry URLs; old root URLs return 301 preserving query attribution; sitemap lists new URLs only. Local checks cover all 737 pages and 28 old URL forms.",
+    "phone_checks": "All 737 canonical pages show (833) 698-MUVE (6883); 1473 call links and every Organization schema use +18336986883. Packaged HTML contains no previous phone number.",
+    "responsive_width_checks": "Six representative routes at 320, 390, 820, 1440, 1920, and 2560 CSS pixels: full-width page containers and no horizontal overflow. Desktop and mobile visuals checked; mobile menu opens and closes. Large-screen photo heights scale while prose keeps readable line lengths.",
+    "header_phone_checks": "Clickable (833) 698-MUVE (6883) beside the header CTA on all 737 canonical pages. Header fit checked at 320, 390, 760, 761, 820, 1050, 1200, 1201, 1280, 1440, and 1920px. Mobile phone tap target is 44px tall; dropdown positioning and navigation verified."
+  }
+}

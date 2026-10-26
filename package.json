@@ -1,0 +1,12 @@
+{
+  "name": "muve-commercial-relocation",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.mjs",
+    "build": "node scripts/build-sites.mjs",
+    "build:sites": "node scripts/build-sites.mjs",
+    "check": "node --check server.mjs && node --check assets/app.js && node scripts/check-site.mjs && node scripts/check-photos.mjs && node scripts/check-service-content.mjs && node --test scripts/form.test.mjs scripts/hosting.test.mjs && node scripts/check-bilingual.mjs",
+    "dev": "HOST=0.0.0.0 node server.mjs"
+  }
+}

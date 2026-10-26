@@ -1,0 +1,5 @@
+data/*.ndjson
+node_modules/
+.DS_Store
+dist/
+*.tar.gz

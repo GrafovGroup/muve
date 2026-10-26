@@ -1,0 +1,44 @@
+{
+  "canonical_origin": "https://muve.ca",
+  "sitemap_url": "https://muve.ca/sitemap.xml",
+  "sitemap_page_count": 737,
+  "google": {
+    "property": "sc-domain:muve.ca",
+    "ownership": "verified via DNS",
+    "verification_txt": "google-site-verification=vwMHDS1nH3ctMc2VVMPwNVh_lsUfngIH5NGW3QyqJLQ",
+    "sitemap_submitted": true,
+    "submission_date": "2026-09-09",
+    "last_observed_status": "Success",
+    "discovered_pages": 737,
+    "report_url": "https://search.google.com/search-console/sitemaps?resource_id=sc-domain%3Amuve.ca",
+    "last_read": "2026-09-13",
+    "page_indexing_status": "Processing data, please check again in a day or so"
+  },
+  "bing": {
+    "property": "https://muve.ca/",
+    "ownership": "verified through Google Search Console import",
+    "imported_sites": [
+      "https://muve.ca/"
+    ],
+    "sitemap_submitted": true,
+    "last_observed_status": "Processing",
+    "discovered_pages": 0,
+    "submission_date_displayed": "9/10/2026",
+    "last_resubmitted_at": "2026-09-13T21:50:06.252800+00:00",
+    "previous_error": "Bingbot was not able to access the page.",
+    "previous_last_processed": "2026-09-10"
+  },
+  "crawlability": {
+    "published_sitemap_valid": true,
+    "robots_allows_crawling": true,
+    "canonical_domain_correct": true,
+    "custom_domain_https": "Both muve.ca and www.muve.ca serve HTTP 200 with valid HTTPS.",
+    "www_sitemap_http_status": 200,
+    "apex_sitemap_http_status": 200
+  },
+  "remaining": [
+    "Check Google Page indexing once report data is available; discovery does not confirm indexing.",
+    "Confirm Bing sitemap processing succeeds after September 13 resubmission."
+  ],
+  "checked_at": "2026-09-13T21:50:06.252800+00:00"
+}

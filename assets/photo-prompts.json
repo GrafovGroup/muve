@@ -1,0 +1,292 @@
+{
+  "mode": "Built-in image_gen",
+  "note": "AI-generated editorial scenes for service illustration; not documentary photographs of company staff, client projects, or facilities.",
+  "images": [
+    {
+      "name": "office-relocation",
+      "prompt": "Use case: photorealistic-natural. Asset type: wide website hero photograph for Müve, a premium Canadian B2B relocation service. Create a photorealistic editorial photograph, landscape 3:2. Scene: a beautiful modern Canadian corporate office during an organized move, floor to ceiling glass, pale oak furniture, soft daylight, muted forest green plants and olive accents. On the right half of the composition, two adult professional movers wearing unbranded dark forest-green work polos and charcoal work trousers carefully push a small flat platform trolley stacked with three closed olive reusable moving crates. A colleague stands beyond them near neatly arranged office chairs. Natural candid action, believable scale, safe equipment handling, authentic textures. Left half is quieter architecture with a little empty darker space suitable for white HTML headline overlay. Wide architecture photography, 28mm lens, eye level, natural daylight, restrained warm editorial color grade, crisp and premium, no exaggerated HDR. No text, no logos, no watermarks, no flags, no brand marks, no UI, no embedded headline.",
+      "source": "/Users/grafov/.codex/generated_images/01a0872d-73bc-7700-b191-00e94d77e862/exec-d3e3ffa8-93f0-42e7-a598-1f9122be2674.png"
+    },
+    {
+      "name": "employee-relocation",
+      "prompt": "Use case: photorealistic-natural. Asset type: premium B2B employee relocation service photograph, landscape 3:2. An adult professional couple arriving in a bright, refined city apartment with large windows, pale oak floors, a green houseplant, several neatly packed kraft moving boxes. One adult holding a slim laptop bag stands by the entry and exchanges a relaxed greeting with a moving coordinator wearing an unbranded forest-green polo and charcoal trousers, who holds a simple clipboard. Three people only, natural candid expressions and realistic anatomy, no posed camera smiles. Real editorial lifestyle photograph, authentic materials, gentle side daylight, modern Canadian residential setting, muted forest green, warm cream and oak palette, slightly filmic fine grain, premium architectural photography. No text, logos, watermarks, readable documents or branding.",
+      "source": "/Users/grafov/.codex/generated_images/01a0872d-73bc-7700-b191-00e94d77e862/exec-d39f20be-f1c0-4e2d-84a5-d3a54753a399.png"
+    },
+    {
+      "name": "medical-relocation",
+      "prompt": "Use case: photorealistic-natural. Asset type: premium commercial clinic relocation website photograph, landscape 3:2. A clean modern outpatient medical clinic with pale sage walls, oak storage, bright soft daylight. In the foreground two adult relocation staff in unbranded dark forest-green work polos and charcoal trousers carefully position a CLOSED padded transport case on a low four-wheel platform trolley. In the background are empty exam rooms through glass doors and neatly prepared boxed office supplies. No patients, no treatments, no exposed medical records, no hazardous materials, no loose medical instruments. Natural candid documentary photography with credible practical handling, meticulous organized feel, premium restrained warm color grade matching architectural moving service photography. Realistic humans, realistic objects, no text, logos or watermark.",
+      "source": "/Users/grafov/.codex/generated_images/01a0872d-73bc-7700-b191-00e94d77e862/exec-58e71f1d-9a2e-42c8-a877-469edecb306e.png"
+    },
+    {
+      "name": "it-relocation",
+      "prompt": "Use case: photorealistic-natural. Asset type: premium IT equipment relocation website photograph, landscape 3:2. Close editorial photograph in a modern enterprise office staging area: an adult IT relocation specialist in an unbranded forest-green work polo and charcoal trousers carefully places a powered-off compact office desktop computer into a fitted charcoal protective foam transport case on a waist-high workbench. Neatly coiled cables, two protected monitors and a second closed equipment case nearby. Face is visible in three-quarter profile naturally focused on work, hands anatomically accurate. Soft side daylight, background glazed office softly out of focus, oak and charcoal details, restrained green/cream palette, fine natural photographic texture. No sparks, no server dismantling, no dramatic sci-fi, no visible confidential data, no legible writing, no logos or watermarks.",
+      "source": "/Users/grafov/.codex/generated_images/01a0872d-73bc-7700-b191-00e94d77e862/exec-5861c3a9-dbbf-4c51-9cee-701aeefc6247.png"
+    },
+    {
+      "name": "move-planning",
+      "prompt": "Use case: photorealistic-natural. Asset type: wide editorial relocation planning photograph for a premium Canadian commercial moving website, landscape 3:2. Two adult professionals, an office manager in cream knitwear and a relocation coordinator in an unbranded forest-green polo, standing at a large pale oak meeting table in a sunlit empty modern office. They look down together at a large simple architectural floor plan, with an olive reusable moving crate and a few neatly arranged swatch-sized blank room labels nearby. Candid documentary composition from a slightly elevated angle, medium-wide crop showing the tabletop and both people, believable calm conversation, natural anatomy. Warm editorial architectural photography, muted oak, sage, cream and charcoal color palette, soft window light. No readable text, no logos, no branding, no watermark, no computer generated illustration aesthetic.",
+      "source": "/Users/grafov/.codex/generated_images/01a0872d-73bc-7700-b191-00e94d77e862/exec-746d0557-5800-466d-8cbd-6c3549ce64c0.png"
+    },
+    {
+      "name": "storage-service",
+      "alt": "Furniture and moving crates organized on shelving in a commercial storage space",
+      "prompt": "Use case: photorealistic-natural. Asset type: an individual commercial relocation website photograph, landscape 1536x1024. Style: high-end candid editorial photography with realistic texture, natural people, soft daylight, warm cream and muted forest-green accents, gentle film grain. Canadian business setting. One cohesive photograph, not a collage. No typography, logos, watermarks, fake badges, mountains, or over-polished CGI. Scene: a clean commercial warehouse aisle with wrapped office chairs and disassembled desks secured on lower shelving, stacked sturdy reusable green moving crates on the ground, a worker scanning an inventory label beside a hand trolley. Emphasize actual organized storage, concrete floor, practical lighting, shelves receding into depth. Frame the worker and stored items clearly, keep the photo quiet and orderly. No readable labels.",
+      "source": "/Users/grafov/.codex/generated_images/01a0872d-73bc-7700-b191-00e94d77e862/exec-fcfdc556-b1d1-4fcf-b412-4660ba9c26fb.png",
+      "outputs": [
+        "assets/photos/storage-service-768.webp",
+        "assets/photos/storage-service-1536.webp"
+      ]
+    },
+    {
+      "name": "decommissioning-service",
+      "alt": "Movers clearing labelled office furniture from a vacated workplace",
+      "prompt": "Use case: photorealistic-natural. Asset type: an individual commercial relocation website photograph, landscape 1536x1024. Style: high-end candid editorial photography with realistic texture, natural people, soft daylight, warm cream and muted forest-green accents, gentle film grain. Canadian business setting. One cohesive photograph, not a collage. No typography, logos, watermarks, fake badges, mountains, or over-polished CGI. Scene: a partly vacated business office at the end of a relocation, two movers guide a trolley carrying neatly nested office chairs toward an open loading entrance while another group of furniture awaits removal. Visible clean empty floor space and wall marks from a removed cabinet tell the story of office clearance. Wide composition, diagonal depth, no technical packing scene, no desktop computers as the main subject. Practical protective blankets and tidy materials, careful natural human movement.",
+      "source": "/Users/grafov/.codex/generated_images/01a0872d-73bc-7700-b191-00e94d77e862/exec-fe1588c0-b88f-4cb4-8344-99ada6fc0887.png",
+      "outputs": [
+        "assets/photos/decommissioning-service-768.webp",
+        "assets/photos/decommissioning-service-1536.webp"
+      ]
+    },
+    {
+      "name": "furniture-service",
+      "alt": "An installer assembling an office desk against an approved workplace layout",
+      "prompt": "Use case: photorealistic-natural. Asset type: an individual commercial relocation website photograph, landscape 1536x1024. Style: high-end candid editorial photography with realistic texture, natural people, soft daylight, warm cream and muted forest-green accents, gentle film grain. Canadian business setting. One cohesive photograph, not a collage. No typography, logos, watermarks, fake badges, mountains, or over-polished CGI. Scene: modern bright office with oak flooring and large windows; two furniture installers in plain dark green work shirts assemble an unpowered white sit-stand desk frame, one kneeling with a hand tool while the other aligns its tabletop. A completed workstation is in the background. Emphasize practical assembly details, plausible hands and posture, well organized parts. Medium-wide candid view from desk level.",
+      "source": "/Users/grafov/.codex/generated_images/01a0872d-73bc-7700-b191-00e94d77e862/exec-c84b5436-e5af-4600-9d8a-26fe7ee917c3.png",
+      "outputs": [
+        "assets/photos/furniture-service-768.webp",
+        "assets/photos/furniture-service-1536.webp"
+      ]
+    },
+    {
+      "name": "move-day-hero",
+      "alt": "Movers loading protected office furniture at an urban commercial building",
+      "prompt": "Use case: photorealistic-natural. Asset type: one landscape 1536x1024 website photograph for Müve, a Canadian business moving company. Premium candid editorial photography, soft natural daylight, realistic materials and anatomy, muted forest-green workwear with cream, oak, and charcoal surroundings. Authentic working moment, not a posed stock-photo handshake. One photograph only. No typography, logos, brand names, badges, watermarks, legible private information, mountains, or CGI. Wide outdoor scene at a modern Toronto business building's loading entrance. Two movers on the RIGHT half load a protected office cabinet toward the open rear of a plain white moving truck; a third checks stacked green crates. Restrained city architecture, overcast morning, warm interior light. LEFT half is uncluttered darker concrete and glass architecture suitable for a white website heading. No traffic, no landmarks required, believable lifting equipment.",
+      "source": "/Users/grafov/.codex/generated_images/01a0872d-73bc-7700-b191-00e94d77e862/exec-23999cfd-2f9f-4097-949c-ff7586d74c0f.png",
+      "outputs": [
+        "assets/photos/move-day-hero-768.webp",
+        "assets/photos/move-day-hero-1536.webp"
+      ]
+    },
+    {
+      "name": "home-move-advisor",
+      "alt": "A move advisor talking with a business customer by phone",
+      "prompt": "Use case: photorealistic-natural. Asset type: one landscape 1536x1024 website photograph for Müve, a Canadian business moving company. Premium candid editorial photography, soft natural daylight, realistic materials and anatomy, muted forest-green workwear with cream, oak, and charcoal surroundings. Authentic working moment, not a posed stock-photo handshake. One photograph only. No typography, logos, brand names, badges, watermarks, legible private information, mountains, or CGI. Warm close editorial portrait of a woman in her thirties seated at an oak desk, wearing a plain charcoal shirt, listening on a phone with a small notebook nearby. Blurred reusable green moving crates by a glazed office partition in the background. Candid quiet moment, relaxed focused expression, no camera-facing smile, no readable screen. Crop with space around head and shoulders.",
+      "source": "/Users/grafov/.codex/generated_images/01a0872d-73bc-7700-b191-00e94d77e862/exec-cf3e74d0-7ace-4bc0-a721-bedd272c30f3.png",
+      "outputs": [
+        "assets/photos/home-move-advisor-768.webp",
+        "assets/photos/home-move-advisor-1536.webp"
+      ]
+    },
+    {
+      "name": "office-service-card",
+      "alt": "A mover protecting a workstation for an office relocation",
+      "prompt": "Use case: photorealistic-natural. Asset type: one landscape 1536x1024 website photograph for Müve, a Canadian business moving company. Premium candid editorial photography, soft natural daylight, realistic materials and anatomy, muted forest-green workwear with cream, oak, and charcoal surroundings. Authentic working moment, not a posed stock-photo handshake. One photograph only. No typography, logos, brand names, badges, watermarks, legible private information, mountains, or CGI. A professional mover wraps a disconnected flat office monitor and places a folded protective blanket on a desk, in an ordinary modern workplace. Medium-close angle highlighting careful packing hands, kraft sleeves, and a green moving crate. Sunlight from side window, grey acoustic partitions, no moving truck.",
+      "source": "/Users/grafov/.codex/generated_images/01a0872d-73bc-7700-b191-00e94d77e862/exec-0536731a-98be-401b-bd95-6405ab7992b6.png",
+      "outputs": [
+        "assets/photos/office-service-card-768.webp",
+        "assets/photos/office-service-card-1536.webp"
+      ]
+    },
+    {
+      "name": "employee-service-card",
+      "alt": "A relocation worker carrying household cartons into a new apartment",
+      "prompt": "Use case: photorealistic-natural. Asset type: one landscape 1536x1024 website photograph for Müve, a Canadian business moving company. Premium candid editorial photography, soft natural daylight, realistic materials and anatomy, muted forest-green workwear with cream, oak, and charcoal surroundings. Authentic working moment, not a posed stock-photo handshake. One photograph only. No typography, logos, brand names, badges, watermarks, legible private information, mountains, or CGI. A female mover carries one medium closed cardboard carton through a bright apartment doorway; a professional woman welcomes her with a laptop bag resting nearby. Hardwood floor, olive sofa visible inside, daylight. Medium-wide view from inside the home toward the entrance, relaxed natural movement, no handshake or clipboard.",
+      "source": "/Users/grafov/.codex/generated_images/01a0872d-73bc-7700-b191-00e94d77e862/exec-5e83ede9-1a85-4ec9-b173-933ef5163426.png",
+      "outputs": [
+        "assets/photos/employee-service-card-768.webp",
+        "assets/photos/employee-service-card-1536.webp"
+      ]
+    },
+    {
+      "name": "clinic-service-card",
+      "alt": "A mover preparing protected clinic furniture for transport",
+      "prompt": "Use case: photorealistic-natural. Asset type: one landscape 1536x1024 website photograph for Müve, a Canadian business moving company. Premium candid editorial photography, soft natural daylight, realistic materials and anatomy, muted forest-green workwear with cream, oak, and charcoal surroundings. Authentic working moment, not a posed stock-photo handshake. One photograph only. No typography, logos, brand names, badges, watermarks, legible private information, mountains, or CGI. Empty dental practice reception with pale sage walls and oak joinery. A mover in forest-green shirt wraps a compact reception cabinet with a thick grey moving blanket, nearby two closed supply cartons on a flat trolley. Dental room in soft-focus background; no patients, no records, no treatments, no loose instruments. Three-quarter candid composition.",
+      "source": "/Users/grafov/.codex/generated_images/01a0872d-73bc-7700-b191-00e94d77e862/exec-a852a6a9-fe95-4f66-9518-04b0ff3ccfaf.png",
+      "outputs": [
+        "assets/photos/clinic-service-card-768.webp",
+        "assets/photos/clinic-service-card-1536.webp"
+      ]
+    },
+    {
+      "name": "technology-service-card",
+      "alt": "Protected monitors and computer cases staged for relocation",
+      "prompt": "Use case: photorealistic-natural. Asset type: one landscape 1536x1024 website photograph for Müve, a Canadian business moving company. Premium candid editorial photography, soft natural daylight, realistic materials and anatomy, muted forest-green workwear with cream, oak, and charcoal surroundings. Authentic working moment, not a posed stock-photo handshake. One photograph only. No typography, logos, brand names, badges, watermarks, legible private information, mountains, or CGI. Close-up still life in an enterprise workspace: three powered-off monitors individually fitted with protective sleeves, foam-lined transport cases, carefully coiled cables, and blank destination labels on a long staging bench. A mover's torso and gloved hands at the far right check a lid. Shallow depth of field, convincing material texture, no glowing screen or server rack.",
+      "source": "/Users/grafov/.codex/generated_images/01a0872d-73bc-7700-b191-00e94d77e862/exec-43ec1a6e-6249-4142-8d7f-2cb0d539d834.png",
+      "outputs": [
+        "assets/photos/technology-service-card-768.webp",
+        "assets/photos/technology-service-card-1536.webp"
+      ]
+    },
+    {
+      "name": "services-discussion",
+      "alt": "A business customer discussing moving requirements with a move advisor",
+      "prompt": "Use case: photorealistic-natural. Asset type: one landscape 1536x1024 website photograph for Müve, a Canadian business moving company. Premium candid editorial photography, soft natural daylight, realistic materials and anatomy, muted forest-green workwear with cream, oak, and charcoal surroundings. Authentic working moment, not a posed stock-photo handshake. One photograph only. No typography, logos, brand names, badges, watermarks, legible private information, mountains, or CGI. Two adults sitting across a small round table in a bright office reception: a moving advisor in plain forest-green shirt and a facilities manager in cream blouse. They review a small blank-page notebook and gesture toward packed crates by a doorway. Side-on candid view, friendly focused conversation, coffee cups, no handshake, no large floor plan.",
+      "source": "/Users/grafov/.codex/generated_images/01a0872d-73bc-7700-b191-00e94d77e862/exec-59801f21-369b-4fd1-b806-82cd979f3f01.png",
+      "outputs": [
+        "assets/photos/services-discussion-768.webp",
+        "assets/photos/services-discussion-1536.webp"
+      ]
+    },
+    {
+      "name": "office-service-hero",
+      "alt": "Movers delivering office furniture into a new workspace",
+      "prompt": "Use case: photorealistic-natural. Asset type: one landscape 1536x1024 website photograph for Müve, a Canadian business moving company. Premium candid editorial photography, soft natural daylight, realistic materials and anatomy, muted forest-green workwear with cream, oak, and charcoal surroundings. Authentic working moment, not a posed stock-photo handshake. One photograph only. No typography, logos, brand names, badges, watermarks, legible private information, mountains, or CGI. A wide newly leased office, pale oak floor, black-framed glass meeting rooms. Two movers carefully steer a blanket-protected long desk on purpose-built wheeled furniture dollies into place. A row of green crates sits along the far wall. Capture the delivery action from slightly low three-quarter angle with plenty of space, believable loads and hand positions.",
+      "source": "/Users/grafov/.codex/generated_images/01a0872d-73bc-7700-b191-00e94d77e862/exec-006e656e-b890-4062-a399-9fcd2ccfe92b.png",
+      "outputs": [
+        "assets/photos/office-service-hero-768.webp",
+        "assets/photos/office-service-hero-1536.webp"
+      ]
+    },
+    {
+      "name": "clinic-service-hero",
+      "alt": "Movers wheeling protected furniture through an empty clinic corridor",
+      "prompt": "Use case: photorealistic-natural. Asset type: one landscape 1536x1024 website photograph for Müve, a Canadian business moving company. Premium candid editorial photography, soft natural daylight, realistic materials and anatomy, muted forest-green workwear with cream, oak, and charcoal surroundings. Authentic working moment, not a posed stock-photo handshake. One photograph only. No typography, logos, brand names, badges, watermarks, legible private information, mountains, or CGI. A well-lit outpatient clinic corridor with pale blue-green walls and glass room doors. Two workers push a flat trolley carrying securely blanketed compact clinic cabinets, while a clinic manager watches from the doorway holding a slim closed folder. No patients, no healthcare activity, no open records, no hazardous materials. Wide candid image, clean practical handling.",
+      "source": "/Users/grafov/.codex/generated_images/01a0872d-73bc-7700-b191-00e94d77e862/exec-1114ebb8-aa06-4c1a-843b-aee0a478bf21.png",
+      "outputs": [
+        "assets/photos/clinic-service-hero-768.webp",
+        "assets/photos/clinic-service-hero-1536.webp"
+      ]
+    },
+    {
+      "name": "employee-service-hero",
+      "alt": "A mover unpacking household essentials at an employee’s new home",
+      "prompt": "Use case: photorealistic-natural. Asset type: one landscape 1536x1024 website photograph for Müve, a Canadian business moving company. Premium candid editorial photography, soft natural daylight, realistic materials and anatomy, muted forest-green workwear with cream, oak, and charcoal surroundings. Authentic working moment, not a posed stock-photo handshake. One photograph only. No typography, logos, brand names, badges, watermarks, legible private information, mountains, or CGI. Inside a bright Canadian apartment, a mover in plain green shirt removes paper-wrapped tableware from a carton on the kitchen island while an adult employee arranges a small houseplant nearby. Home arrival scene, soft morning light, everyday scale, pale cabinets, no office furniture or clipboard, realistic packing paper textures.",
+      "source": "/Users/grafov/.codex/generated_images/01a0872d-73bc-7700-b191-00e94d77e862/exec-f75cb1b7-f57c-4982-9a17-e0f5370a8850.png",
+      "outputs": [
+        "assets/photos/employee-service-hero-768.webp",
+        "assets/photos/employee-service-hero-1536.webp"
+      ]
+    },
+    {
+      "name": "technology-service-hero",
+      "alt": "Movers handling closed IT transport cases at an office loading area",
+      "prompt": "Use case: photorealistic-natural. Asset type: one landscape 1536x1024 website photograph for Müve, a Canadian business moving company. Premium candid editorial photography, soft natural daylight, realistic materials and anatomy, muted forest-green workwear with cream, oak, and charcoal surroundings. Authentic working moment, not a posed stock-photo handshake. One photograph only. No typography, logos, brand names, badges, watermarks, legible private information, mountains, or CGI. At an office loading bay, two trained-looking movers roll a pair of tall CLOSED rugged black protective equipment cases with casters along a level floor toward an open cargo vehicle. One hand guides a case, other worker checks clearance. No exposed server parts, no data, no branding. Dark cases contrast with daylight, wide documentary shot.",
+      "source": "/Users/grafov/.codex/generated_images/01a0872d-73bc-7700-b191-00e94d77e862/exec-bf9e965d-93e2-4e51-97c3-b1de9a79aca6.png",
+      "outputs": [
+        "assets/photos/technology-service-hero-768.webp",
+        "assets/photos/technology-service-hero-1536.webp"
+      ]
+    },
+    {
+      "name": "storage-service-hero",
+      "alt": "Protected office furniture and inventory crates inside a storage unit",
+      "prompt": "Use case: photorealistic-natural. Asset type: one landscape 1536x1024 website photograph for Müve, a Canadian business moving company. Premium candid editorial photography, soft natural daylight, realistic materials and anatomy, muted forest-green workwear with cream, oak, and charcoal surroundings. Authentic working moment, not a posed stock-photo handshake. One photograph only. No typography, logos, brand names, badges, watermarks, legible private information, mountains, or CGI. View through the open entrance of a clean commercial storage bay: wrapped conference table tops upright in secured frames, chairs protected on low racks, numbered but unreadable green crates in neat groups. One worker far back places a small carton on shelving. Soft overhead and doorway daylight, symmetrical depth, practical warehouse textures, no invented security badges.",
+      "source": "/Users/grafov/.codex/generated_images/01a0872d-73bc-7700-b191-00e94d77e862/exec-167e7778-144d-4504-ae43-25db51f9c62e.png",
+      "outputs": [
+        "assets/photos/storage-service-hero-768.webp",
+        "assets/photos/storage-service-hero-1536.webp"
+      ]
+    },
+    {
+      "name": "furniture-service-hero",
+      "alt": "Two installers assembling workstations in a bright office",
+      "prompt": "Use case: photorealistic-natural. Asset type: one landscape 1536x1024 website photograph for Müve, a Canadian business moving company. Premium candid editorial photography, soft natural daylight, realistic materials and anatomy, muted forest-green workwear with cream, oak, and charcoal surroundings. Authentic working moment, not a posed stock-photo handshake. One photograph only. No typography, logos, brand names, badges, watermarks, legible private information, mountains, or CGI. Modern workplace with a row of partially assembled bench desks. Two installers, one standing and one seated on a low workshop stool, fit an oak desktop to a black frame with ordinary hand tools. Parts organized on a protective mat, completed whiteboard in background. Wide shot from behind foreground desk edge, hands plausible, equipment switched off.",
+      "source": "/Users/grafov/.codex/generated_images/01a0872d-73bc-7700-b191-00e94d77e862/exec-bda85995-ec55-49b7-9604-654dedb62691.png",
+      "outputs": [
+        "assets/photos/furniture-service-hero-768.webp",
+        "assets/photos/furniture-service-hero-1536.webp"
+      ]
+    },
+    {
+      "name": "clearance-service-hero",
+      "alt": "Office furniture being removed from a vacated floor",
+      "prompt": "Use case: photorealistic-natural. Asset type: one landscape 1536x1024 website photograph for Müve, a Canadian business moving company. Premium candid editorial photography, soft natural daylight, realistic materials and anatomy, muted forest-green workwear with cream, oak, and charcoal surroundings. Authentic working moment, not a posed stock-photo handshake. One photograph only. No typography, logos, brand names, badges, watermarks, legible private information, mountains, or CGI. Long view across a mostly empty office with exposed carpet tile outlines, a worker uses a low handcart to take out a dismantled bookcase, another stacks reusable packing blankets by the service elevator. Afternoon side light, calm orderly final clearance. No demolition, no hazardous waste, no computers, no dramatic damage.",
+      "source": "/Users/grafov/.codex/generated_images/01a0872d-73bc-7700-b191-00e94d77e862/exec-889c5290-1990-4b2f-9354-e298d92948e4.png",
+      "outputs": [
+        "assets/photos/clearance-service-hero-768.webp",
+        "assets/photos/clearance-service-hero-1536.webp"
+      ]
+    },
+    {
+      "name": "office-final-walkthrough",
+      "alt": "A move supervisor checking furniture placement with an office manager",
+      "prompt": "Use case: photorealistic-natural. Asset type: one landscape 1536x1024 website photograph for Müve, a Canadian business moving company. Premium candid editorial photography, soft natural daylight, realistic materials and anatomy, muted forest-green workwear with cream, oak, and charcoal surroundings. Authentic working moment, not a posed stock-photo handshake. One photograph only. No typography, logos, brand names, badges, watermarks, legible private information, mountains, or CGI. In a newly arranged office, a moving supervisor in plain forest green and a male office manager in a light shirt stand beside a completed workstation and look toward aligned desks. The supervisor gestures at placement while holding a simple closed notebook. Medium candid photo, warm light, no handshake, no large floor plan.",
+      "source": "/Users/grafov/.codex/generated_images/01a0872d-73bc-7700-b191-00e94d77e862/exec-578f7d92-1e06-4f03-8360-24f21633e8e9.png",
+      "outputs": [
+        "assets/photos/office-final-walkthrough-768.webp",
+        "assets/photos/office-final-walkthrough-1536.webp"
+      ]
+    },
+    {
+      "name": "employee-delivery-detail",
+      "alt": "Household moving cartons and a carefully placed plant in a new home",
+      "prompt": "Use case: photorealistic-natural. Asset type: one landscape 1536x1024 website photograph for Müve, a Canadian business moving company. Premium candid editorial photography, soft natural daylight, realistic materials and anatomy, muted forest-green workwear with cream, oak, and charcoal surroundings. Authentic working moment, not a posed stock-photo handshake. One photograph only. No typography, logos, brand names, badges, watermarks, legible private information, mountains, or CGI. Quiet editorial close-up of an opened household carton with neatly folded packing paper on an oak apartment floor beside an olive armchair, a small potted plant and a laptop bag. A mover's hands fold a grey protective blanket on the edge of frame. Warm sunlit home arrival atmosphere, no readable box text, no people facing camera.",
+      "source": "/Users/grafov/.codex/generated_images/01a0872d-73bc-7700-b191-00e94d77e862/exec-3517dc98-5a63-49b7-bebc-20527f07f565.png",
+      "outputs": [
+        "assets/photos/employee-delivery-detail-768.webp",
+        "assets/photos/employee-delivery-detail-1536.webp"
+      ]
+    },
+    {
+      "name": "clinic-packing-detail",
+      "alt": "Hands securing a padded moving blanket around clinic office furniture",
+      "prompt": "Use case: photorealistic-natural. Asset type: one landscape 1536x1024 website photograph for Müve, a Canadian business moving company. Premium candid editorial photography, soft natural daylight, realistic materials and anatomy, muted forest-green workwear with cream, oak, and charcoal surroundings. Authentic working moment, not a posed stock-photo handshake. One photograph only. No typography, logos, brand names, badges, watermarks, legible private information, mountains, or CGI. Close natural editorial view of hands in work gloves securing a reusable strap around a small blanketed clinic reception cabinet on a low flat trolley. Background is a soft-focus empty medical reception counter with sage walls. Carefully show functional buckle, restrained textures, no medical records or medical treatment.",
+      "source": "/Users/grafov/.codex/generated_images/01a0872d-73bc-7700-b191-00e94d77e862/exec-9a9a5b72-029a-417a-9b93-8e44c150f6c8.png",
+      "outputs": [
+        "assets/photos/clinic-packing-detail-768.webp",
+        "assets/photos/clinic-packing-detail-1536.webp"
+      ]
+    },
+    {
+      "name": "technology-inventory-detail",
+      "alt": "A relocation worker checking closed equipment cases against an inventory",
+      "prompt": "Use case: photorealistic-natural. Asset type: one landscape 1536x1024 website photograph for Müve, a Canadian business moving company. Premium candid editorial photography, soft natural daylight, realistic materials and anatomy, muted forest-green workwear with cream, oak, and charcoal surroundings. Authentic working moment, not a posed stock-photo handshake. One photograph only. No typography, logos, brand names, badges, watermarks, legible private information, mountains, or CGI. Medium-close side view of a moving specialist with a slim tablet, checking blank unreadable tags on two closed foam transport cases in an office staging area. Glass meeting room out of focus, green crate, neatly coiled cables. Tablet turned away with no readable screen, attention on handover preparation.",
+      "source": "/Users/grafov/.codex/generated_images/01a0872d-73bc-7700-b191-00e94d77e862/exec-950aea0a-a2ea-42cd-af87-f0bf9212c49a.png",
+      "outputs": [
+        "assets/photos/technology-inventory-detail-768.webp",
+        "assets/photos/technology-inventory-detail-1536.webp"
+      ]
+    },
+    {
+      "name": "storage-release-detail",
+      "alt": "A storage worker preparing a trolley for a scheduled furniture delivery",
+      "prompt": "Use case: photorealistic-natural. Asset type: one landscape 1536x1024 website photograph for Müve, a Canadian business moving company. Premium candid editorial photography, soft natural daylight, realistic materials and anatomy, muted forest-green workwear with cream, oak, and charcoal surroundings. Authentic working moment, not a posed stock-photo handshake. One photograph only. No typography, logos, brand names, badges, watermarks, legible private information, mountains, or CGI. At a warehouse dispatch doorway, a female worker in plain green overshirt checks a stack of three sealed reusable moving crates on a low platform trolley. Wrapped desk pieces in a secured rack behind her; morning light crosses concrete. Medium documentary composition with focused worker and practical inventory release action.\nFinal edit: Edit this commercial storage photograph. Change ONLY the exterior background visible through the warehouse doorway: replace all mountains, alpine scenery, and tall conifers with a flat Greater Toronto Area industrial estate, low-rise warehouse buildings, a service road, modest deciduous trees, and pale blue sky. Preserve the woman, green moving crates, trolley, truck, warehouse interior, framing, daylight, natural photographic texture, and realistic working atmosphere. No text, logos, or watermark. Landscape 1536x1024.",
+      "source": "/Users/grafov/.codex/generated_images/01a0872d-73bc-7700-b191-00e94d77e862/exec-749d02fc-9055-4aaa-ba08-1834b879e721.png",
+      "outputs": [
+        "assets/photos/storage-release-detail-768.webp",
+        "assets/photos/storage-release-detail-1536.webp"
+      ]
+    },
+    {
+      "name": "furniture-finishing-detail",
+      "alt": "An installer checking the alignment of a completed office workstation",
+      "prompt": "Use case: photorealistic-natural. Asset type: one landscape 1536x1024 website photograph for Müve, a Canadian business moving company. Premium candid editorial photography, soft natural daylight, realistic materials and anatomy, muted forest-green workwear with cream, oak, and charcoal surroundings. Authentic working moment, not a posed stock-photo handshake. One photograph only. No typography, logos, brand names, badges, watermarks, legible private information, mountains, or CGI. Close side-on photo of a furniture installer using a small spirit level on a newly assembled pale oak office desk, fingers naturally resting on the tool. A tidy modest toolkit and completed chair nearby, softly blurred green office walls. Focus on finishing detail, no electrical wiring work, no readable brand marks.",
+      "source": "/Users/grafov/.codex/generated_images/01a0872d-73bc-7700-b191-00e94d77e862/exec-4aa1e1c6-de98-4771-9837-fedf8400b2c2.png",
+      "outputs": [
+        "assets/photos/furniture-finishing-detail-768.webp",
+        "assets/photos/furniture-finishing-detail-1536.webp"
+      ]
+    },
+    {
+      "name": "clearance-handover-detail",
+      "alt": "A move supervisor checking an empty office before handover",
+      "prompt": "Use case: photorealistic-natural. Asset type: one landscape 1536x1024 website photograph for Müve, a Canadian business moving company. Premium candid editorial photography, soft natural daylight, realistic materials and anatomy, muted forest-green workwear with cream, oak, and charcoal surroundings. Authentic working moment, not a posed stock-photo handshake. One photograph only. No typography, logos, brand names, badges, watermarks, legible private information, mountains, or CGI. An almost empty sunlit office with clean carpet and open glass meeting room. A move supervisor in plain dark green shirt stands by the doorway holding a simple clipboard angled away, looking across the finished space. A neatly folded stack of moving blankets on a trolley by the door. Calm end-of-job documentary atmosphere, wide space and one person.",
+      "source": "/Users/grafov/.codex/generated_images/01a0872d-73bc-7700-b191-00e94d77e862/exec-47948ac1-5c68-4911-92b6-9455638bbf42.png",
+      "outputs": [
+        "assets/photos/clearance-handover-detail-768.webp",
+        "assets/photos/clearance-handover-detail-1536.webp"
+      ]
+    },
+    {
+      "name": "gta-moving-day",
+      "alt": "Movers taking workplace crates through a downtown Toronto building entrance",
+      "prompt": "Use case: photorealistic-natural. Asset type: one landscape 1536x1024 website photograph for Müve, a Canadian business moving company. Premium candid editorial photography, soft natural daylight, realistic materials and anatomy, muted forest-green workwear with cream, oak, and charcoal surroundings. Authentic working moment, not a posed stock-photo handshake. One photograph only. No typography, logos, brand names, badges, watermarks, legible private information, mountains, or CGI. Street-level daytime view of two movers in plain forest-green polos pushing green workplace crates on a low flat trolley through a modern glass commercial entrance in downtown Toronto. Subtle city skyline reflections, broad safe sidewalk, planted planters, no explicit landmark or signage. Action is centered-right, wide architecture documentary photography, realistic glass and reflections.",
+      "source": "/Users/grafov/.codex/generated_images/01a0872d-73bc-7700-b191-00e94d77e862/exec-5103eb3e-3be9-4083-8bb7-049ec317bb9b.png",
+      "outputs": [
+        "assets/photos/gta-moving-day-768.webp",
+        "assets/photos/gta-moving-day-1536.webp"
+      ]
+    },
+    {
+      "name": "gta-access-assessment",
+      "alt": "A move supervisor and building manager reviewing a loading entrance",
+      "prompt": "Use case: photorealistic-natural. Asset type: one landscape 1536x1024 website photograph for Müve, a Canadian business moving company. Premium candid editorial photography, soft natural daylight, realistic materials and anatomy, muted forest-green workwear with cream, oak, and charcoal surroundings. Authentic working moment, not a posed stock-photo handshake. One photograph only. No typography, logos, brand names, badges, watermarks, legible private information, mountains, or CGI. Two adults in a modern building service entrance beside a freight elevator: moving supervisor in plain forest-green shirt and property manager in neutral business-casual clothing measure the clear doorway using an ordinary tape measure. No readable elevator labels. Wide candid shot, thoughtful practical access planning, bright neutral walls, loading trolley aside.",
+      "source": "/Users/grafov/.codex/generated_images/01a0872d-73bc-7700-b191-00e94d77e862/exec-3d1fff40-82d7-4ae8-acc2-81d9da459065.png",
+      "outputs": [
+        "assets/photos/gta-access-assessment-768.webp",
+        "assets/photos/gta-access-assessment-1536.webp"
+      ]
+    }
+  ],
+  "usage": "Main pages use exclusive photos in each placement; local landing pages reuse relevant service sets without repetition inside a page."
+}
