@@ -1,3 +1,4 @@
+import {additionalServices} from './additional-services.mjs';
 export const availability='La disponibilité dépend des lieux, du trajet, des dates et des exigences de manutention. L’entreposage, l’installation, les travaux spécialisés et le transport vers les régions éloignées ou nordiques sont confirmés dans votre proposition.';
 export const serviceFR={
 'office-moving':{name:'Déménagement de bureaux',intro:'Nous emballons, transportons et installons le contenu de vos bureaux selon les besoins de votre équipe et votre date de reprise des activités.',includes:['Planification, inventaire et étiquetage des postes de travail','Emballage protecteur, transport et déballage','Démontage, mise en place et remontage du mobilier','Coordination des accès, ascenseurs et quais de chargement','Travaux par étapes, en soirée ou la fin de semaine, selon disponibilité'],detail:'À partir de vos plans d’étage, nous attribuons une destination à chaque poste et préparons la séquence de livraison. Les priorités de réouverture guident le déroulement du déménagement.',qualification:'Le débranchement informatique, les travaux électriques et les installations spécialisées font l’objet d’un mandat distinct avec votre équipe ou des spécialistes qualifiés.',tasks:['Confirmer les plans des deux locaux','Identifier les services et postes prioritaires','Préciser les réservations d’ascenseurs et l’accès au quai','Attribuer les responsabilités du mobilier et de l’informatique'],question:'Peut-on déménager une fin de semaine?',answer:'Nous planifions les travaux de fin de semaine ou par étapes selon l’inventaire, les accès et les contraintes techniques. L’échéancier est confirmé avant la réservation.'},
@@ -115,3 +116,5 @@ yellowknife|Identifiez les biens déjà sur place et ceux à acheminer. Confirme
 iqaluit|Distinguez les déplacements locaux des expéditions entrantes. Confirmez le mode de transport, la saison, les dimensions et la réception.
 `.trim().split('\n').map(x=>x.split('|')));
 export const cityName=c=>c.slug==='quebec-city'?'Québec':c.slug==='greater-sudbury'?'Grand Sudbury':c.name;
+
+for(const service of additionalServices) serviceFR[service.slug]=service.fr;

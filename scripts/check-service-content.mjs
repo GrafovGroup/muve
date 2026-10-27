@@ -23,4 +23,4 @@ for(const service of services){
   assert(local.includes(`href="${servicePath(service)}"`),`Missing detailed scope link: ${path}`);
  }
 }
-console.log('PASS: seven distinct service editorials; 623 local briefs link to the full scope without cloning its paragraphs.');
+console.log(`PASS: ${services.length} distinct service editorials; ${services.length*locations.length} local briefs link to the full scope without cloning its paragraphs.`);

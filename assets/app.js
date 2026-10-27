@@ -2,10 +2,12 @@ const isFrench=document.documentElement?.lang==='fr-CA';
 const menu=document.querySelector('.menu-toggle');
 menu?.addEventListener('click',()=>{const open=menu.getAttribute('aria-expanded')!=='true';menu.setAttribute('aria-expanded',String(open));document.querySelector('nav').classList.toggle('open',open);});
 document.querySelectorAll('nav a').forEach(a=>a.addEventListener('click',()=>{menu?.setAttribute('aria-expanded','false');document.querySelector('nav').classList.remove('open');}));
+if(menu){document.addEventListener('keydown',event=>{if(event.key==='Escape'&&menu.getAttribute('aria-expanded')==='true'){menu.setAttribute('aria-expanded','false');document.querySelector('nav').classList.remove('open');menu.focus();}});}
 const form=document.querySelector('#move-form');
 if(form){
  const date=form.querySelector('[name=date]');
- date.min=new Date().toLocaleDateString('en-CA');
+ const today=new Date();
+ date.min=[today.getFullYear(),String(today.getMonth()+1).padStart(2,'0'),String(today.getDate()).padStart(2,'0')].join('-');
  const button=form.querySelector('button[type=submit]'),status=document.querySelector('#form-status');
  const buttonLabel=button.textContent;
  let submitting=false;

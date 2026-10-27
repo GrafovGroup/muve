@@ -1,0 +1,96 @@
+{
+  "front": "müve.ca wordmark only, wearer left chest",
+  "back": "ANOTHER SMOOTH MOVE — by müve",
+  "font": "Approved option 2: bold geometric sans-serif",
+  "color": "White on forest green",
+  "images": [
+    {
+      "original": "move-day-hero",
+      "replacement": "move-day-hero-branded-v1"
+    },
+    {
+      "original": "move-planning",
+      "replacement": "move-planning-branded-v1"
+    },
+    {
+      "original": "services-discussion",
+      "replacement": "services-discussion-branded-v1"
+    },
+    {
+      "original": "gta-moving-day",
+      "replacement": "gta-moving-day-branded-v1"
+    },
+    {
+      "original": "gta-access-assessment",
+      "replacement": "gta-access-assessment-branded-v1"
+    },
+    {
+      "original": "office-relocation",
+      "replacement": "office-relocation-branded-v1"
+    },
+    {
+      "original": "office-service-card",
+      "replacement": "office-service-card-branded-v1"
+    },
+    {
+      "original": "office-final-walkthrough",
+      "replacement": "office-final-walkthrough-branded-v1"
+    },
+    {
+      "original": "employee-relocation",
+      "replacement": "employee-relocation-branded-v1"
+    },
+    {
+      "original": "employee-service-card",
+      "replacement": "employee-service-card-branded-v1"
+    },
+    {
+      "original": "employee-arrival-home-v2",
+      "replacement": "employee-arrival-home-v2-branded-v1"
+    },
+    {
+      "original": "medical-relocation",
+      "replacement": "medical-relocation-branded-v1"
+    },
+    {
+      "original": "clinic-service-card",
+      "replacement": "clinic-service-card-branded-v1"
+    },
+    {
+      "original": "it-relocation",
+      "replacement": "it-relocation-branded-v1"
+    },
+    {
+      "original": "technology-inventory-detail",
+      "replacement": "technology-inventory-detail-branded-v1"
+    },
+    {
+      "original": "storage-release-detail",
+      "replacement": "storage-release-detail-branded-v1"
+    },
+    {
+      "original": "furniture-service",
+      "replacement": "furniture-service-branded-v1"
+    },
+    {
+      "original": "furniture-detail-assembly-v2",
+      "replacement": "furniture-detail-assembly-v2-branded-v1"
+    },
+    {
+      "original": "furniture-finishing-detail",
+      "replacement": "furniture-finishing-detail-branded-v1"
+    },
+    {
+      "original": "decommissioning-service",
+      "replacement": "decommissioning-service-branded-v1"
+    },
+    {
+      "original": "clearance-material-sorting-v2",
+      "replacement": "clearance-material-sorting-v2-branded-v1"
+    },
+    {
+      "original": "clearance-handover-detail",
+      "replacement": "clearance-handover-detail-branded-v1"
+    }
+  ]
+}

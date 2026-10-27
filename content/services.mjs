@@ -1,3 +1,4 @@
+import {additionalServices} from './additional-services.mjs';
 import {servicePhotos} from './photos.mjs';
 import {serviceEditorial} from './service-editorial.mjs';
 export const servicePath=service=>'/services/'+service.slug;
@@ -22,3 +23,5 @@ const context={
  'office-decommissioning':{search:'Office decommissioning services',serviceType:'Office decommissioning',formValue:'Office decommissioning',audience:'property teams, facilities managers, and departing occupiers',tasks:['Approve retain, relocate, donate, recycle, or dispose decisions','Assign data-bearing assets to the IT owner','Confirm acceptance by donation and recycling recipients','Sequence removals against premises handover','Request the agreed collection and completion records'],outcome:'An approved clearance schedule with item destinations, responsibilities, and handover records.',question:'Are donation and recycling outcomes guaranteed?',answer:'Donation and recycling depend on the items’ condition, material type, and recipient acceptance. We confirm the available destinations and agreed records with you before carrying out the removal.'}
 };
 for(const s of services)Object.assign(s,context[s.slug],{photos:servicePhotos[s.slug],editorial:serviceEditorial[s.slug]});
+
+services.push(...additionalServices);

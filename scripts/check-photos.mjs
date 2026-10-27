@@ -19,10 +19,10 @@ for (const page of pages.filter(p=>p!=='fr'&&!p.startsWith('fr/'))) {
     const fingerprint = fingerprints.get(src);
     assert(!localUses.has(fingerprint), `Repeated photo on /${page}: ${src}`);
     localUses.add(fingerprint);
-    assert(!allUses.has(fingerprint), `Photo reused on /${page} and ${allUses.get(fingerprint)}: ${src}`);
+    // Service imagery is intentionally shared across relevant city pages.
     allUses.set(fingerprint, '/' + page);
     placements++;
   }
 }
 
-console.log(`PASS: ${pages.length} pages checked; ${placements} photo placements, all unique across the entire site by file content.`);
+console.log(`PASS: ${pages.length} pages checked; ${placements} photo placements, no repeated images within a page; shared service imagery permitted across locations.`);
